@@ -1,6 +1,6 @@
 cask "keydimmer" do
-  version "1.0.0"
-  sha256 "874ccc107084dc98ae5244a3bffd17cd3666e5d39a7ec7b98af4cc42699e2127"
+  version "1.1.0"
+  sha256 "45be3877c59fce2da314460e3cc13c6495f2651dcb1db1d989d28fd038f9d20f"
 
   url "https://github.com/philzx/keydimmer/releases/download/v#{version}/KeyDimmer-#{version}.zip"
   name "KeyDimmer"
